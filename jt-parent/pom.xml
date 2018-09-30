@@ -124,6 +124,13 @@
             <version>${mapper.version}</version>
         </dependency>
 
+        <!--通用Mapper的插件-->
+        <dependency>
+            <groupId>tk.mybatis</groupId>
+            <artifactId>mapper</artifactId>
+            <version>3.2.2</version>
+        </dependency>
+
         <!-- 分页插件 -->
         <dependency>
             <groupId>com.github.pagehelper</groupId>

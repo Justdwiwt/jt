@@ -40,6 +40,7 @@
           <element id="library" level="project" name="Maven: javax.persistence:persistence-api:1.0" />
           <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.2" />
           <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.1" />
+          <element id="library" level="project" name="Maven: tk.mybatis:mapper:3.2.2" />
           <element id="library" level="project" name="Maven: com.github.pagehelper:pagehelper:3.4.2" />
           <element id="library" level="project" name="Maven: com.github.jsqlparser:jsqlparser:0.9.1" />
           <element id="library" level="project" name="Maven: com.jolbox:bonecp-spring:0.8.0.RELEASE" />
