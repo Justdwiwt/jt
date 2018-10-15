@@ -8,3 +8,4 @@
 
 [mycat](jt-manage/doc/10-12笔记.md)
 
+[rabbitmq](jt-manage/doc/10-15笔记.md)
