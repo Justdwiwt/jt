@@ -13,3 +13,5 @@
 [Lucene](jt-manage/doc/10-16笔记.md)
 
 [ElasticSearch](jt-manage/doc/10-18笔记.md)
+
+[Nginx](jt-manage/doc/10-19笔记.md)
