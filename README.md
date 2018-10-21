@@ -15,3 +15,5 @@
 [ElasticSearch](jt-manage/doc/10-18笔记.md)
 
 [Nginx](jt-manage/doc/10-19笔记.md)
+
+[项目构建](jt-manage/doc/10-21笔记.md)
