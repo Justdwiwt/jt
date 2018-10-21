@@ -1,10 +1,8 @@
 package com.jt.manage.pojo;
 
-import javax.persistence.Column;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import com.jt.common.po.BasePojo;
+
+import javax.persistence.*;
 
 /**
  * @author Administrator

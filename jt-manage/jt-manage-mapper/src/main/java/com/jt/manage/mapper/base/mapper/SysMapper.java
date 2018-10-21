@@ -2,10 +2,12 @@ package com.jt.manage.mapper.base.mapper;
 
 import org.apache.ibatis.annotations.*;
 
+import java.util.List;
+
 /**
  * @author Administrator
  */
-public interface SysMapper {
+public interface SysMapper<T> {
 
     /**
      * 根据主键ID批量删除
