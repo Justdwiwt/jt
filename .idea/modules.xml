@@ -4,9 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jt-common/jt-common.iml" filepath="$PROJECT_DIR$/jt-common/jt-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/jt-manage/jt-manage.iml" filepath="$PROJECT_DIR$/jt-manage/jt-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-manage/jt-manage-cart/jt-manage-cart.iml" filepath="$PROJECT_DIR$/jt-manage/jt-manage-cart/jt-manage-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-manage/jt-manage-manager/jt-manage-manager.iml" filepath="$PROJECT_DIR$/jt-manage/jt-manage-manager/jt-manage-manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/jt-manage/jt-manage-mapper/jt-manage-mapper.iml" filepath="$PROJECT_DIR$/jt-manage/jt-manage-mapper/jt-manage-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-manage/jt-manage-order/jt-manage-order.iml" filepath="$PROJECT_DIR$/jt-manage/jt-manage-order/jt-manage-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/jt-manage/jt-manage-pojo/jt-manage-pojo.iml" filepath="$PROJECT_DIR$/jt-manage/jt-manage-pojo/jt-manage-pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/jt-manage/jt-manage-service/jt-manage-service.iml" filepath="$PROJECT_DIR$/jt-manage/jt-manage-service/jt-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-manage/jt-manage-sso/jt-manage-sso.iml" filepath="$PROJECT_DIR$/jt-manage/jt-manage-sso/jt-manage-sso.iml" />
       <module fileurl="file://$PROJECT_DIR$/jt-manage/jt-manage-web/jt-manage-web.iml" filepath="$PROJECT_DIR$/jt-manage/jt-manage-web/jt-manage-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/jt-parent/jt-parent.iml" filepath="$PROJECT_DIR$/jt-parent/jt-parent.iml" />
     </modules>

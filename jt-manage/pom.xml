@@ -11,6 +11,10 @@
         <module>jt-manage-mapper</module>
         <module>jt-manage-service</module>
         <module>jt-manage-web</module>
+        <module>jt-manage-cart</module>
+        <module>jt-manage-sso</module>
+        <module>jt-manage-order</module>
+        <module>jt-manage-manager</module>
     </modules>
 
     <parent>

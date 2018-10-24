@@ -7,18 +7,26 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jt-common" />
+        <module name="jt-manage-cart" />
+        <module name="jt-manage-manager" />
         <module name="jt-manage-mapper" />
+        <module name="jt-manage-order" />
         <module name="jt-manage-pojo" />
         <module name="jt-manage-service" />
+        <module name="jt-manage-sso" />
         <module name="jt-manage-web" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="jt-common" target="1.7" />
       <module name="jt-manage" target="1.7" />
+      <module name="jt-manage-cart" target="1.7" />
+      <module name="jt-manage-manager" target="1.7" />
       <module name="jt-manage-mapper" target="1.7" />
+      <module name="jt-manage-order" target="1.7" />
       <module name="jt-manage-pojo" target="1.7" />
       <module name="jt-manage-service" target="1.7" />
+      <module name="jt-manage-sso" target="1.7" />
       <module name="jt-manage-web" target="1.7" />
       <module name="jt-parent" target="1.7" />
     </bytecodeTargetLevel>

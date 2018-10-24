@@ -1,9 +1,6 @@
 package com.jt.common.service;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
-
+import com.jt.common.vo.HttpResult;
 import org.apache.http.NameValuePair;
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
@@ -18,7 +15,9 @@ import org.apache.http.util.EntityUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.jt.common.vo.HttpResult;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
 
 
 @Service
